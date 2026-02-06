@@ -25,27 +25,13 @@ I start a lot of projects. I learn from all of them. Some accidentally become re
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicksel010&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<!-- Working stats with fallback parameters -->
-<div style="flex: 1; min-width: 300px;">
-<img src="https://github-readme-stats.vercel.app/api?username=nicksel010&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=cbd5e1&icon_color=0ea5e9&border_radius=10&cache_seconds=86400" alt="GitHub Stats" width="100%" onerror="this.style.display='none'" />
-</div>
-
-<div style="flex: 1; min-width: 300px;">
-<img src="https://streak-stats.demolab.com?user=nicksel010&theme=github-dark&hide_border=true&background=0D1117&dates=94a3b8&ring=0ea5e9&fire=0ea5e9&currStreakNum=0ea5e9&sideNums=cbd5e1" alt="GitHub Streak" width="100%" onerror="this.style.display='none'" />
-</div>
-
-</div>
-
-<!-- Alternative if above doesn't work -->
-<div style="margin: 20px 0;">
-<a href="https://github.com/nicksel010?tab=repositories">
-  <div style="background: #1e293b; padding: 15px; border-radius: 10px; border: 1px solid #334155; display: inline-block;">
-    <span style="color: #0ea5e9; font-weight: bold;">View All Projects →</span>
-  </div>
-</a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicksel010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -57,48 +43,16 @@ I start a lot of projects. I learn from all of them. Some accidentally become re
 
 ---
 
-## 📈 Activity
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; max-width: 600px; margin: 30px auto;">
-
-<div style="background: #1e293b; padding: 15px; border-radius: 10px; border: 1px solid #334155; text-align: center;">
-<div style="color: #0ea5e9; font-size: 24px; font-weight: bold;">🌱</div>
-<div style="color: #cbd5e1; font-size: 14px;">Growing Projects</div>
-</div>
-
-<div style="background: #1e293b; padding: 15px; border-radius: 10px; border: 1px solid #334155; text-align: center;">
-<div style="color: #0ea5e9; font-size: 24px; font-weight: bold;">⚡</div>
-<div style="color: #cbd5e1; font-size: 14px;">Active Development</div>
-</div>
-
-<div style="background: #1e293b; padding: 15px; border-radius: 10px; border: 1px solid #334155; text-align: center;">
-<div style="color: #0ea5e9; font-size: 24px; font-weight: bold;">🚀</div>
-<div style="color: #cbd5e1; font-size: 14px;">Always Shipping</div>
-</div>
-
-<div style="background: #1e293b; padding: 15px; border-radius: 10px; border: 1px solid #334155; text-align: center;">
-<div style="color: #0ea5e9; font-size: 24px; font-weight: bold;">💡</div>
-<div style="color: #cbd5e1; font-size: 14px;">New Ideas</div>
-</div>
-
-</div>
-
----
-
 ## 🌍 Find Me
 
 <div style="display: flex; justify-content: center; gap: 15px; margin: 30px 0;">
 
 <a href="https://bosify.nl">
-  <div style="background: #1e293b; padding: 12px 25px; border-radius: 8px; border: 1px solid #334155; display: flex; align-items: center; gap: 8px; transition: transform 0.2s;">
-    <span style="color: #0ea5e9; font-weight: bold;">🌐 bosify.nl</span>
-  </div>
+  <img src="https://img.shields.io/badge/Website-bosify.nl-0f172a?style=for-the-badge&logo=vercel&logoColor=white&color=0ea5e9" alt="Website" />
 </a>
 
 <a href="https://github.com/nicksel010">
-  <div style="background: #1e293b; padding: 12px 25px; border-radius: 8px; border: 1px solid #334155; display: flex; align-items: center; gap: 8px; transition: transform 0.2s;">
-    <span style="color: #0ea5e9; font-weight: bold;">💻 GitHub</span>
-  </div>
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&color=0ea5e9" alt="GitHub" />
 </a>
 
 </div>
