@@ -24,22 +24,13 @@ I start a lot of projects. I learn from all of them. Some accidentally become re
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicksel010&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-
-<div style="flex: 1; min-width: 300px;">
-<img src="https://github-readme-stats.vercel.app/api?username=nicksel010&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1&icon_color=0ea5e9&border_radius=10" alt="GitHub Stats" width="100%" />
-</div>
-
-<div style="flex: 1; min-width: 300px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicksel010&theme=dark&hide_border=true&background=0f172a&dates=94a3b8&ring=0ea5e9&fire=0ea5e9&currStreakNum=0ea5e9&sideNums=cbd5e1" alt="GitHub Streak" width="100%" />
-</div>
-
-</div>
-
-<div style="margin: 20px 0;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksel010&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1&border_radius=10" alt="Top Languages" width="50%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicksel010&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
