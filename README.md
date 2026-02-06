@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Nick</h1>
 
-<!--
-**nicksel010/nicksel010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Web+Designer+%26+Developer;Modern+Websites+%26+Web+Apps;Clean+UI+%7C+Fast+Code+%7C+SEO+Ready" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 I design & build fast, modern websites and web apps.<br/>
+  From idea → design → production.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I do
+- ✨ UI/UX focused web design  
+- ⚡ High-performance websites  
+- 🧩 Custom web applications  
+- 🔧 Frontend & backend development  
+- 📈 SEO & conversion-friendly builds  
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & Other
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,wordpress,cs,python,lua,mysql" />
+</p>
+
+---
+
+## 📌 Current Focus
+- Building scalable Next.js projects  
+- Clean code & performance optimization  
+- Simple solutions for real-world problems  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Let’s connect
+- 🌐 Website: *coming soon*
+- 💬 Open for freelance & collaborations
+
+---
+
+<p align="center">
+  <i>Clean code. Modern design. Real results.</i>
+</p>
