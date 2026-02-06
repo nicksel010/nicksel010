@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=Nick%20%7C%20Bosify&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e293b&height=180&section=header&text=Nick%20%7C%20Bosify&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=nicksel010&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
