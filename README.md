@@ -35,11 +35,11 @@ Web, apps, scripts, experiments & unfinished ideas
 
 ### 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
+<img src="https://github-readme-stats.vercel.app/api?username=nicksel010 &show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=14" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicksel010 &theme=tokyonight&hide_border=true&border_radius=14" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=nicksel010 &theme=darkhub&no-frame=true&row=1&column=6" />
 
 ---
 
@@ -56,7 +56,7 @@ Web, apps, scripts, experiments & unfinished ideas
   <img src="https://img.shields.io/badge/Website-bosify.nl-111?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/nicksel010 ">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
